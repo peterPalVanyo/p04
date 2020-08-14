@@ -1,0 +1,6 @@
+.container {
+    background-color: bisque;
+}
+.col, .col-10, .col-lg-10, .col-lg-1 {
+    border: 1px solid black;
+}
